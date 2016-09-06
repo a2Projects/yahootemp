@@ -29,6 +29,7 @@ Now, how cool is this :point_up: readme file :grey_question:
          var msg= 'Thank you for reading me, yours sincerely, <br /> ' + link + ' admin ;]';
          return msg;
       } 
-      var span = document.createElement("span"); span.appendChild(document.createTextNode(thankYouMsg('http://yahootemp.github.io'))); 
+      var span = document.createElement("span");
+      span.appendChild(document.createTextNode(thankYouMsg('http://yahootemp.github.io'))); 
       document.body.appendChild(span); 
  ```
