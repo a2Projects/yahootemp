@@ -8,11 +8,11 @@
     You can find all my projects list @
     http://github.com/a2Projects.
     
-    Project name       |   Finished
-    _ _ _ _ _ _ _ _ _ _|_ _ _ _ _ _ _ _ _ _
-    **yAhoo!!**        | - [] redesign
-    **monster.co.uk**  | - [] redesign
-    **psychology.com** | - [x] <del>develop</del> :+1:
+    *Project name*     |         *Finished*         | (+/-)1
+    -------------------|----------------------------|--------
+    **yAhoo!!**        | - [] redesign              | :-1:
+    **monster.co.uk**  | - [] redesign              | :-1:
+    **psychology.com** | - [x] <del>develop</del>   | :+1:
     
     >"Live today. Not yesterday. Not tomorrow. Just today. Inhabit your moments. 
     >Don’t rent them out to tomorrow. Do you know what you’re doing when you spend a moment wondering how things are going to turn out with Perry?
