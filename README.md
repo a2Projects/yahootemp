@@ -2,7 +2,8 @@
 
   * ##*All my projects*
 
-    #My repo pages can be found @http://github.com/a2Projects/yahootemp.github.io
+    #My repo pages can be found @
+    http://github.com/a2Projects/yahootemp.github.io
 
     You can find all my projects list @
     http://github.com/a2Projects.
