@@ -1,4 +1,5 @@
-* *yahootemp.github.io*
+* ```javascript function welcomeMsg(link) {var msg= 'Welcome to:<br /> ' + link + 'project readme file ;]';return msg;} var span = document.createElement("span"); span.appendChild(document.createTextNode(welcomeMsg('http://yahootemp.github.io'))); document.body.appendChild(span); ```
+
 * **yAhoo !** [Visit yahoo.co.uk](http://www.yahoo.co.uk)
 
   * ##*All my projects*
@@ -8,11 +9,11 @@
     You can find all my projects list @
     http://github.com/a2Projects.
     
-    *Project name*     |         *Finished*         | (+/-)1
+    *Projects*         |         *Finished*         | (+/-)1
     -------------------|----------------------------|--------
-    **yAhoo!!**        | - [] redesign              | :-1:
-    **monster.co.uk**  | - [] redesign              | :-1:
-    **psychology.com** | - [x] <del>develop</del>   | :+1:
+    **yAhoo!!**        | - [] redesign              |  :-1:
+    **monster.co.uk**  | - [] redesign              |  :-1:
+    **psychology.com** | - [x] <del>develop</del>   |  :+1:
     
     >"Live today. Not yesterday. Not tomorrow. Just today. Inhabit your moments. 
     >Don’t rent them out to tomorrow. Do you know what you’re doing when you spend a moment wondering how things are going to turn out with Perry?
