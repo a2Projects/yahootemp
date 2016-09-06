@@ -1,4 +1,4 @@
-* ####yahootemp.github.io
+* *yahootemp.github.io*
 * **yAhoo !** [Visit yahoo.co.uk](http://www.yahoo.co.uk)
 
   * ##*All my projects*
@@ -9,7 +9,7 @@
     http://github.com/a2Projects.
     
     Project name       |   Finished
-    __________________ | ______________
+    _ _ _ _ _ _ _ _ _ _|_ _ _ _ _ _ _ _ _ _
     **yAhoo!!**        | - [] redesign
     **monster.co.uk**  | - [] redesign
     **psychology.com** | - [x] <del>develop</del> :+1:
@@ -23,4 +23,4 @@
     
     >-Jerry Spinelli, Love, Stargirl :octocat:
 
-Now how cool is this :point_up: readme file :grey_question:
+Now, how cool is this :point_up: readme file :grey_question:
