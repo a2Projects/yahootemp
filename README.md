@@ -1,5 +1,3 @@
-* ```javascript function welcomeMsg(link) {var msg= 'Welcome to:<br /> ' + link + 'project readme file ;]';return msg;} var span = document.createElement("span"); span.appendChild(document.createTextNode(welcomeMsg('http://yahootemp.github.io'))); document.body.appendChild(span); ```
-
 * **yAhoo !** [Visit yahoo.co.uk](http://www.yahoo.co.uk)
 
   * ##*All my projects*
@@ -25,3 +23,11 @@
     >-Jerry Spinelli, Love, Stargirl :octocat:
 
 Now, how cool is this :point_up: readme file :grey_question:
+
+```javascript 
+      function thankYouMsg(link) {
+         var msg= 'Thank you for reading me, yours sincerely <br /> ' + link + 'admin ;]';
+         return msg;
+      } 
+      var span = document.createElement("span"); span.appendChild(document.createTextNode(thankYouMsg('http://yahootemp.github.io'))); 
+      document.body.appendChild(span); ```
